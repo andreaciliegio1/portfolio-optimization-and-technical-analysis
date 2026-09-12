@@ -1,4 +1,4 @@
-%% ANDREA CILIEGIO 2148291
+%% ANDREA CILIEGIO
 
 % Pulizia ambiente di lavoro
 clc; clf; clear; close all; 
